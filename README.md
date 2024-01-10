@@ -1,7 +1,5 @@
 # Students Mental Health Survey
 
-![logo](mental health background.jpg)
-
 ## About
 The students mental health survey project aims to investigate the correlation between various factors and mental health among students. Through an examination of parameters the analysis seeks to identify patterns that may impact students' mental well-being. This comprehensive survey delves into academic, lifestyle, and social aspects to identify patterns impacting students' mental wellness, providing valuable insights for targeted interventions and support programs in educational settings.
 
